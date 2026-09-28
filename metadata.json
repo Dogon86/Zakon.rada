@@ -1,0 +1,8 @@
+{
+  "name": "Закони України",
+  "description": "Збереження та читання законів України з сайту Верховної Ради онлайн та офлайн, пошук за назвою та текстом, закладки, нотатки та категорії.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
